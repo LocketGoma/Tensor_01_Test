@@ -21,3 +21,4 @@ model.fit(x_train, y_train, epochs=5)
 
 model.evaluate(x_test,  y_test, verbose=2)
 
+#https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko
